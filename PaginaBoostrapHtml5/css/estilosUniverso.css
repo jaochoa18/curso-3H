@@ -1,0 +1,18 @@
+P {
+font-size : 12pt;
+color:blue;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+H1 {
+font-size : 36pt;
+font-family : verdana,arial;
+text-align : center;
+background-color :white;
+color:black;
+}
+BODY {
+background-color : white;
+font-family : arial;
+color : White;
+}
